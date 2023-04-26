@@ -2,7 +2,7 @@
 This assignment is part of the Beginner's training course for Front end developers. The problem statement is taken from an internal product that has been developed recently. The idea is to give you an understanding of the kind of designs you might be working on post your training while also focussing on the development process.
 
 # Problem statement
-Please refer to [this Figma file](https://www.figma.com/file/Q6aTpSbBvnMskduSudcII2/Backoffice-navigation?node-id=272-38510&t=hmQGYRriqrAXVseY-0).
+Please refer to [this Figma file](https://www.figma.com/file/Q6aTpSbBvnMskduSudcII2/Backoffice-navigation?node-id=272-38510&t=hmQGYRriqrAXVseY-0) or [this design](/beginners/resources/dashboard.png).
 
 ## Summary of the design
 - The designs are for a simple product-lookup webapp.
