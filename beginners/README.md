@@ -1,36 +1,26 @@
-#Introduction
-This assignment is part of the Beginner's training course for Front end developers. The problem statement is taken from an internal product that has been developed recently. The idea is to give you an understanding of the kind of designs you might be working on post your training while also focussing on the development process.
+# FE Training for Beginners
+This training guide is for individuals who are new to the world of FE development or would like to re-visit the very basics.
 
-# Problem statement
-Please refer to [this Figma file](https://www.figma.com/file/Q6aTpSbBvnMskduSudcII2/Backoffice-navigation?node-id=272-38510&t=hmQGYRriqrAXVseY-0).
-## Summary of the design
-- The designs are for a simple product-lookup webapp.
-- A user can visit this page and look-up for any application available in the list.
-- By default, the page shows all the available products.
-- On clicking any of the products, the user will be taken to a new page having the details of the relevant app.
-- The user can choose to bookmark his choice of app, that will be visible under "My Tools" as quick links for his next visit.
-## Requirements
-You must convert this design into an HTML solution that can run on any modern browser. Your application must exhibit the following:
-- Adjusting the UI as per the device/ screen size (responsive design)
-- Clicking on the logo on the navbar should navigate the user to https://frontiersin.org
-- Filtering based on product names only
-- Clicking on the products opens up the details in a new tab.
-- Bookmark should be functional (Hint: use localstorage)
+## Objective
+At the end of the training, you are expected to have a good understanding on the following topics:
 
-On top of this, you can let your creative juices flow and add animations or trainsitions to make the user experience more appealing.
+- HTML5/ CSS3
+- JS (ES6)
+- CSS Pre-processors (SASS)
+- RWD (Responsive Web Design)
+- Git
+- Accessibility
 
-## Process
-- The solution has to be submitted in form of a Git repository.
-- Every feature must be developed in a separate _feature_ branch.
-- Once a feature is developed, a Pull/ Merge request to the _development_ branch must be created.
-- Please mark "Anna Ricci Benson" as the reviewer.
-- Merge your development into _main_ branch of your repository once your application is ready to be shipped.
+The goal is to help you understand the core concepts of Front-end development and deliver a fully responsive solution to [this problem statement](/assessment/) in the next 4 weeks, while implementing what you have learnt.
 
-# Expectations
-You are expected to work on this problem statement every day by implementing whatever you learn; and keep improving the solution with every new learning. Your mentors are there for any questions you might have.
+## Suggested Tutorials
 
-# Timeline
-The solution to this problem statement must be submitted by the end of your training.
+Below are links to some suggested articles and tutorials that will help you get up to speed:
 
-# Help
-Your mentors are always available to support you with any inputs you might need from time to time. Feel free to reach out to them.
+- [A curated playlist for beginners](https://app.pluralsight.com/channels/details/6461c813-90c8-4013-afad-f5ebe3745055)
+- [CSS Pre-processor](https://www.freecodecamp.org/news/the-beginners-guide-to-sass/) 
+- [All about Accessibility](https://www.w3schools.com/accessibility/index.php)
+- [Learn HTML & CSS – Full Course for Beginners](https://youtu.be/a_iQb1lnAEQ)
+- [CSS Tutorial – Full Course for Beginners](https://youtu.be/OXGznpKZ_sA)
+
+These links should set you sailing on the right track. To explore or deep dive on specific topics, feel free to refer to other videos or tutorials available online.

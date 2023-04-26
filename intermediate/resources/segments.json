@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1es23",
+    "displayName": "Office platforms",
+    "icon": "/icons/ICO_Computer.svg"
+  },
+  {
+    "id":"1xs2e",
+    "displayName": "Advanced settings",
+    "icon": "/icons/ICO_Cog.svg"
+  },
+  {
+    "id":"xs2e1",
+    "displayName": "Data",
+    "icon": "/icons/ICO_Servers.svg"
+  },
+  {
+    "id":"xf2e1",
+    "displayName": "Business workflows Business workflows Business workflows Business workflows",
+    "icon": "/icons/ICO_BusinessWorkflows.svg"
+  }
+]

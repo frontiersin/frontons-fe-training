@@ -1,0 +1,163 @@
+[
+  {
+    "productName": "Digital editorial office",
+    "productId": "01",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "url1",
+    "segmentId": "1es23"
+  },
+  {
+    "productName": "Research topic management",
+    "productId": "03",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://research-topic-management-app.frontiersin.org",
+    "segmentId": "1es23"
+  },
+  {
+    "productName": "Production office",
+    "productId": "04",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1es23"
+  },
+  {
+    "productName": "Accounting",
+    "productId": "05",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1es23"
+  },
+  {
+    "productName": "productName2",
+    "productId": "06",
+    "description": "description2",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "General",
+    "productId": "07",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Journals",
+    "productId": "08",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Article types",
+    "productId": "09",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Products",
+    "productId": "10",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Terminology",
+    "productId": "11",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Role assignment",
+    "productId": "12",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Emails",
+    "productId": "13",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Taxonomy",
+    "productId": "14",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "1xs2e"
+  },
+  {
+    "productName": "Smart search",
+    "productId": "15",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "Lists",
+    "productId": "16",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "People",
+    "productId": "17",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "Organizations",
+    "productId": "18",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "Publications",
+    "productId": "19",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "Journals",
+    "productId": "20",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "Fields of study",
+    "productId": "21",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xs2e1"
+  },
+  {
+    "productName": "My workflows",
+    "productId": "22",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xf2e1"
+  },
+  {
+    "productName": "Bookmarked",
+    "productId": "23",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xf2e1"
+  },
+  {
+    "productName": "All workflows",
+    "productId": "24",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis tellus in diam molestie rutrum. Aenean sed dictum tortor. Morbi consequat quam at ipsum auctor accumsan. Proin ante metus, imperdiet a quam id, pellentesque feugiat elit. Donec consequat nulla.",
+    "url": "http://frontiersin.org",
+    "segmentId": "xf2e1"
+  }
+]
