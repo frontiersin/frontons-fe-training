@@ -11,7 +11,7 @@ At the end of the training, you are expected to have a good understanding on the
 - Git
 - Accessibility
 
-The goal is to help you understand the core concepts of Front-end development and deliver a fully responsive solution to [this problem statement](/assessment/) in the next 4 weeks, while implementing what you have learnt.
+The goal is to help you understand the core concepts of Front-end development and deliver a fully responsive solution to [this problem statement](/beginners/assessment/) in the next 4 weeks, while implementing what you have learnt.
 
 ## Suggested Tutorials
 
