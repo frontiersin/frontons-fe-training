@@ -1,8 +1,16 @@
-## Products
-`GET /api/products?search={text}&segmentId={segmentId}`
-When `search` or `segmentId` parameter is available, return a filtered set of products otherwise return all the products.
-Example:
+## Products 
+> `GET /api/products`
+
+The API returns all products.
+
+| Parameter |  Default |Description |
+|-----------|-------------|------------|
+| search | "" | `string` to filter the product's list by. If no value is passed, it will return all the products |
+| segementId | "" | `string` value that corresponds to the ID of a valid segment. If no value is passed, it will return all the products |
+
+Examples:
 1. `GET /api/products`
+
 Sample Response:
 ```
 [
@@ -23,7 +31,8 @@ Sample Response:
   ...
 ]
 ```
-2. `GET /api/products?search=Research`
+2. `GET /api/products?search=research`
+
 Sample Response:
 ```
 [
@@ -38,6 +47,7 @@ Sample Response:
 ]
 ```
 3. `GET /api/products?segmentId=xs2e1`
+
 Sample Response:
 ```
 [
