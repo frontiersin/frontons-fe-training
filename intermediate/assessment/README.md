@@ -40,13 +40,13 @@ Assignment-checkpoints have been created to help enforce proper hands-on learnin
 *Skills*: NodeJS, NPM, TS.  
 *Expectation*: To have an understanding on how to create NodeJS APIs and create server to render application in conjunction with TS. These APIs are very basic ones, that require know-how of JS more than anything. The application should be consuming these APIs instead of the static JSON.  
 Resources:
-  [APIs](/intermediate/resources/API.md)
+- [APIs](/intermediate/resources/API.md)
 
 ### Checkpoint 2:
 Skills: Vue3, Vite.  
 Expectation: The application should now be completely transformed into a SPA (Single Page Application) using Vue3. All functionalities should be working as expected and state managed properly.  
 Resources:
-  [Design](/intermediate/resources/designs/dashboard.png)
+- [Design](/intermediate/resources/designs/dashboard.png)
 
 
 # Expectations
