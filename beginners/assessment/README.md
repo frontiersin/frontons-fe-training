@@ -35,17 +35,17 @@ The assets/ resources required for the assignment are available [here](/beginner
 ## Checkpoints
 Assignment-checkpoints have been created to help enforce proper hands-on learning. These checkpoints mark milestones at which you are expected to be fully capable to implement certain concepts independently.
 ### Checkpoint 1:
-Skills: HTML5/CSS3
-Expectation: To have created a completely responsive layout for the assignment.
+Skills: HTML5/CSS3.  
+Expectation: To have created a completely responsive layout for the assignment.  
 Resources:
-  [Dashboard](/beginners/resources/designs/dashboard.png)
+  [Dashboard](/beginners/resources/designs/dashboard.png).  
   [Dashboard (mobile)](/beginners/resources/designs/dashboard-mobile.png)
 
 ### Checkpoint 2:
-Skills: JS
-Expectation: The layout should now support interactivity. The products listing should be dynamic. The search by name should be functional, and segments tabs functional. Users should also be able to un/bookmark applications.
+Skills: JS.  
+Expectation: The layout should now support interactivity. The products listing should be dynamic. The search by name should be functional, and segments tabs functional. Users should also be able to un/bookmark applications.  
 Resources:
-  [Products](/beginners/resources/data/products.json) alternatively you may also use [this API](https://mocki.io/v1/6f46c778-2ec4-4690-9dcb-de755e0298e7)
+  [Products](/beginners/resources/data/products.json) alternatively you may also use [this API](https://mocki.io/v1/6f46c778-2ec4-4690-9dcb-de755e0298e7).  
   [Segments](/beginners/resources/data/segments.json)
 
 
