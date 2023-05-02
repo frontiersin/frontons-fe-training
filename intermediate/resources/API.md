@@ -3,10 +3,10 @@
 
 The API returns all products.
 
-| Parameter |  Default |Description |
-|-----------|-------------|------------|
-| search | "" | `string` to filter the product's list by. If no value is passed, it will return all the products |
-| segementId | "" | `string` value that corresponds to the ID of a valid segment. If no value is passed, it will return all the products |
+| Parameter | Required | Default | Description |
+|-----------|-------------|------------| ---- |
+| search | `false` | "" | `string` to filter the product's list by. If no value is passed, it will return all the products |
+| segementId | `false` |"" | `string` value that corresponds to the ID of a valid segment. If no value is passed, it will return all the products |
 
 Examples:
 1. `GET /api/products`
