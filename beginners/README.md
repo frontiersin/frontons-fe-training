@@ -24,3 +24,8 @@ Below are links to some suggested articles and tutorials that will help you get 
 - [CSS Tutorial – Full Course for Beginners](https://youtu.be/OXGznpKZ_sA)
 
 These links should set you sailing on the right track. To explore or deep dive on specific topics, feel free to refer to other videos or tutorials available online.
+
+## Submissions
+The assignment should be submitted in the form of a GitHub repo. The repo should have proper `README` documentaion in place, so that the solution be verified easily. Also, ensure proper branching strategy is in place for your own repo, for example, __do not push everything in progress to the `main`branch__. The recommended way is to raise Pull requests with every small feature and changes to the `development` branch and once the solution is concrete and stable, get it merged to the main.
+
+Please reach out to your mentors for further explanation on this topic.
